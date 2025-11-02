@@ -7,13 +7,13 @@
 </div>
 
 - 💼 I’m currently working as a **Junior Automation Tester** 🧪  
-- 🧰 My main frameworks: **Selenide + TestNG + Allure Report**, and I’m expanding to **Playwright (Java)** ⚡  
-- 👀 I’m interested in **Test Automation | Quality Assurance | AI in Testing** 🤖  
+- 🧰 Main frameworks: **Selenide + TestNG + Allure Report**, currently exploring **Playwright (Java)** ⚡  
+- 👀 Passionate about **Automation Testing | QA Engineering | AI in Testing** 🤖  
 - 🎓 Graduated from **Ho Chi Minh City University of Technology and Education (HCMUTE)**  
-- 💞️ I’m looking to collaborate on **QA automation projects** or **test framework development**  
+- 💞️ I’m open to collaborating on **automation frameworks**, **testing tools**, or **QA innovation projects**  
 - 📫 Reach me at: [khoitranminh1107@gmail.com](mailto:khoitranminh1107@gmail.com)  
 - 😄 Pronouns: **Koi**  
-- ⚡ Fun fact: I can eat **Pho** for a whole month! 🍜  
+- ⚡ Fun fact: I can eat **Pho** every day for a month! 🍜  
 
 ---
 
@@ -40,34 +40,41 @@
 ---
 
 <div align="center">
-  <h2>🧪 Automation Testing Stack</h2>
+  <h2>🧪 Automation & Testing Expertise</h2>
 </div>
 
-**🧠 Frameworks & Tools:**
-- **Web Automation:** Selenide, Playwright, Selenium  
-- **Test Management:** TestNG, JUnit, Jenkins (CI/CD)  
-- **Reporting:** Allure Report 📊  
-- **API Testing:** Postman, REST Assured  
-- **Version Control:** Git, GitHub, GitLab  
-- **Bug Tracking:** Jira, Confluence  
-- **Continuous Integration:** Jenkins  
+**🧠 Core Testing Skills:**
+- ✅ **Web Testing:** End-to-end UI automation using **Selenide**, **Playwright**, and **Selenium**
+- 📱 **Mobile Testing:** Android & iOS automation using **Appium**
+- 🌐 **API Testing:** RESTful API validation with **Postman** and **REST Assured**
+- ⚙️ **Firmware / Network Device Testing:** Hands-on experience with network device firmware validation (Cisco-like platforms)
+- 🔁 **Regression Testing:** Build and execute large-scale regression suites in CI pipelines
+- 🧩 **Functional / Sanity / Smoke Testing:** Design and run modular automated tests
+- 💬 **Bug Tracking & Reporting:** Defect lifecycle management via **Jira** + **Allure reports**
+- 🧰 **CI/CD Integration:** Automated execution and reporting through **Jenkins**
 
 ---
 
 <div align="center">
-  <h2>🛠️ Programming Languages & Tools 💻</h2>
+  <h2>🛠️ Frameworks, Tools & Languages 💻</h2>
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github,gitlab,selenium,postman,gradle,maven,jenkins,allure,playwright,html,css,js,mysql,postgresql,mongodb,figma&perline=10" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,gitlab,selenium,playwright,postman,gradle,maven,jenkins,allure,html,css,js,mysql,postgresql,mongodb,figma&perline=10" alt="My Skills"/>
 </p>
 
-**Some other tools and areas I’m experienced with or learning:**
-- **Automation:** Selenide, Selenium, Playwright, Appium  
-- **Databases:** MySQL, PostgreSQL, MongoDB 💾  
-- **Cloud & CI/CD:** Docker, Jenkins ☁️  
-- **Languages:** Java, Groovy, Python  
-- **Other Interests:** AI, ML, and applying automation in intelligent testing systems 🤖  
+**Technical Summary:**
+- **Automation Frameworks:** Selenide, Playwright, Selenium, Appium  
+- **Test Frameworks:** TestNG, JUnit  
+- **Reporting:** Allure Report, Extent Report  
+- **API Testing Tools:** Postman, REST Assured  
+- **Version Control:** Git, GitHub, GitLab  
+- **Continuous Integration:** Jenkins  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Programming Languages:** Java, Groovy, Python  
+- **Cloud & Containers:** Docker, AWS (Basic)  
+- **Collaboration Tools:** Jira, Confluence  
+- **Other Interests:** AI for test automation & performance testing 🚀  
 
 ---
 
