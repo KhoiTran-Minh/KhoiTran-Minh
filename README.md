@@ -6,12 +6,14 @@
   <h1>👋 Hi, I’m @KhoiTran-Minh</h1>
 </div>
 
-- 👀 I’m interested in **AI | ML | ROBOTICS** 🤖🧠💡
-- 🌱 I've graduated from **Ho Chi Minh City University of Technology and Education**. 🎓
-- 💞️ I’m looking to collaborate on projects in the **AI | ML field**.
-- 📫 How to reach me: [khoitranminh1107@gmail.com](mailto:khoitranminh1107@gmail.com)
-- 😄 Pronouns: **Koi**
-- ⚡ Fun fact: I can eat **Pho** for a whole month! 🍜
+- 💼 I’m currently working as a **Junior Automation Tester** 🧪  
+- 🧰 My main frameworks: **Selenide + TestNG + Allure Report**, and I’m expanding to **Playwright (Java)** ⚡  
+- 👀 I’m interested in **Test Automation | Quality Assurance | AI in Testing** 🤖  
+- 🎓 Graduated from **Ho Chi Minh City University of Technology and Education (HCMUTE)**  
+- 💞️ I’m looking to collaborate on **QA automation projects** or **test framework development**  
+- 📫 Reach me at: [khoitranminh1107@gmail.com](mailto:khoitranminh1107@gmail.com)  
+- 😄 Pronouns: **Koi**  
+- ⚡ Fun fact: I can eat **Pho** for a whole month! 🍜  
 
 ---
 
@@ -38,23 +40,34 @@
 ---
 
 <div align="center">
-  <h2>🛠️ Languages and Tools 💻</h2>
+  <h2>🧪 Automation Testing Stack</h2>
+</div>
+
+**🧠 Frameworks & Tools:**
+- **Web Automation:** Selenide, Playwright, Selenium  
+- **Test Management:** TestNG, JUnit, Jenkins (CI/CD)  
+- **Reporting:** Allure Report 📊  
+- **API Testing:** Postman, REST Assured  
+- **Version Control:** Git, GitHub, GitLab  
+- **Bug Tracking:** Jira, Confluence  
+- **Continuous Integration:** Jenkins  
+
+---
+
+<div align="center">
+  <h2>🛠️ Programming Languages & Tools 💻</h2>
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,matlab,cpp,c,git,gitlab,github,selenium,docker,kubernetes,aws,gcp,ros,html,css,js,nodejs,react,vue,angular,java,kotlin,swift,mysql,postgresql,mongodb,figma,arduino,raspberrypi&perline=10" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,gitlab,selenium,postman,gradle,maven,jenkins,allure,playwright,html,css,js,mysql,postgresql,mongodb,figma&perline=10" alt="My Skills"/>
 </p>
 
-**Some other tools and areas I'm experienced with/learning:**
-- **Automation Testing:** Appium (Mobile), Selenium (Web) 📱💻
-- **Embedded Systems Programming:** CAN bus (using C/C++, Python for communication and development) 🚗⚙️
-- **Cloud & DevOps:** Docker, Kubernetes, AWS, Google Cloud Platform ☁️🚀
-- **Web Development:** HTML, CSS, JavaScript (Node.js, React/Vue/Angular)
-- **Mobile Development:** Java/Kotlin (Android), Swift (iOS)
-- **Robotics:** ROS (Robot Operating System) 🤖
-- **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB) 💾
-- **UI/UX Design:** Figma
-- **Hardware:** Arduino, Raspberry Pi
+**Some other tools and areas I’m experienced with or learning:**
+- **Automation:** Selenide, Selenium, Playwright, Appium  
+- **Databases:** MySQL, PostgreSQL, MongoDB 💾  
+- **Cloud & CI/CD:** Docker, Jenkins ☁️  
+- **Languages:** Java, Groovy, Python  
+- **Other Interests:** AI, ML, and applying automation in intelligent testing systems 🤖  
 
 ---
 
@@ -63,6 +76,10 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khoi-tran-602954291/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:khoitranminh1107@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/khoi-tran-602954291/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:khoitranminh1107@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
